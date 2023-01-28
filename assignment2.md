@@ -1,1 +1,11 @@
 # Is the combination of shortened attention spans and the oversaturation of available content leading to more shows being prematurely cancelled by their streaming services?
+
+Professor Francis, 
+
+      I believe this dataset would be useful in answering my question because it is a compilation of every major streaming platform along with their renewed and cancelled shows from 2022. While searching for a useful dataset, most sources I found only showed the updates from one streaming platform or only one genre from that platform, such as reality shows or animated shows, instead of a complete view of every cancelled show from this year. The Rotten Tomatoes dataset not only lists all the current updates from each major streaming service, but it also shows at which season each show was either renewed for or cancelled after. 
+
+      There is more insight into how frequently new, original content is cancelled by displaying how many seasons of each show exists before its network decides to end it. This list is also helpful because it explains whether a show is cancelled due to a finale, which would mean it reached its natural conclusion, or if it’s solely because its streaming platform shut it down.  
+
+      To ensure this dataset was reliable, I compared it to other available websites and articles that mention which shows have been cancelled and renewed. By searching for specific shows listed as cancelled on this dataset, I saw various social media posts talking about the show’s cancellation, along with looking at announcements on Twitter by the creators of various cancelled shows confirming the truth. After finding Rotten Tomatoes list to be consistent with the available announcements and other articles, I also looked up reviews of Rotten Tomatoes reliability and saw that it has been listed as “the world's most trusted recommendation resources for quality entertainment”. I also looked at the website’s mission statement and saw that the website strives to keep track of everything that is new and relevant to the television and movie industry and providing that information to their audience.  
+    
+[Dataset](https://editorial.rottentomatoes.com/article/renewed-and-cancelled-tv-shows-2022/) 
