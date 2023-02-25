@@ -1,5 +1,6 @@
-# Video Removal Data
- 
+# Completed 
+## Video Removal Data
+
   
 Recently, TikTok has gotten vocal pressure to monitor their video content due to the influx of younger viewers signing up for the app. As part of their initiative to release Transparency Reports to the public, TikTok has started releasing the amount of videos removed for policy violations, along with the specific reason as to why the video was removed. 
 
